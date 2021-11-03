@@ -1,5 +1,7 @@
+"""
+    this file Provide an Example of how to use the library
+"""
 from Cryptography.ciphers import AES
-
 
 def main():
     key  =input('enter your key: ')#'0123456789ABCDEF0123456789ABCDEF'
